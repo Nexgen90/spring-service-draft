@@ -1,0 +1,11 @@
+/.classpath
+.classpath
+.idea
+.project
+target
+*/target
+*.class
+*.iml
+*.log
+Thumbs.db
+*.DS_Store
