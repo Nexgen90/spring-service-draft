@@ -24,7 +24,7 @@ public abstract class BaseTimerAdvise {
         );
 
         if (t.get() != null) {
-            throw  t.get();
+            throw t.get();
         }
 
         return result.get();
